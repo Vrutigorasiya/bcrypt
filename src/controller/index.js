@@ -1,0 +1,1 @@
+module.exports.bcrypt_controller = require("./bcrypt.controller")

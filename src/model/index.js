@@ -1,0 +1,1 @@
+module.exports.Bcrypt = require("./bcrypt.model.js")
